@@ -1,0 +1,3 @@
+Nombre: ROBERTO
+Telefono: 333333
+Categoria: AMIGO
